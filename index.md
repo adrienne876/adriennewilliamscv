@@ -6,7 +6,7 @@ layout: default
 
 ## About me
 
-I am an engineer by training and a creative. I do three things:
+I am an engineer by training and a Creative. I live and work in Jamaica 🇯🇲, where I do three things:
 - teach and research Physics, Biomechanics and Health
 - produce and host a video interview series about repatriation/return migration to the Caribbean called "Repat Series"
 - read 120+ books (fiction and non-fiction) per year
